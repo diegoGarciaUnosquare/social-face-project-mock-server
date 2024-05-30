@@ -23,13 +23,7 @@
         }
     ],
     "validate-email": [
-        {
-            "valid": true
-        }
+        true
     ],
-    "update-password": [
-        {
-            "success": true
-        }
-    ]
+    "update-password": []
 }
