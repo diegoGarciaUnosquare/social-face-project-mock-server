@@ -28,5 +28,8 @@
             "valid": true
         }
     ],
-    "update-password": []
+    "update-password": [{
+        "id": 1,
+        "password": "jas0djiuasd"
+    }]
 }
