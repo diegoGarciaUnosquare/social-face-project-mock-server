@@ -23,7 +23,10 @@
         }
     ],
     "validate-email": [
-        true
+        {
+            "id": 1,
+            "valid": true
+        }
     ],
     "update-password": []
 }
