@@ -28,8 +28,24 @@
             "valid": true
         }
     ],
-    "update-password": [{
-        "id": 1,
-        "password": "jas0djiuasd"
-    }]
+    "update-password": [
+        {
+            "id": 1,
+            "password": "jas0djiuasd"
+        }
+    ],
+    "login-user": [
+        { 
+            "id": 1,
+            "firstName": "New", 
+            "lastName": "User",
+            "email": "newuser@example.com", 
+            "birthDate": "2000-01-01", 
+            "notificationPreference": true, 
+            "username": "newuser", 
+            "password": "newpassword", 
+            "token": "",
+            "role": 0
+        }
+    ]
 }
