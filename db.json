@@ -12,7 +12,7 @@
         { 
             "id": 1,
             "firstName": "New", 
-            "lastName": "User", 
+            "lastName": "User",
             "email": "newuser@example.com", 
             "birthDate": "2000-01-01", 
             "notificationPreference": true, 
