@@ -1,12 +1,12 @@
 {
     "social-post": [
-        { "id": 1, "userId": 1, "message": "Post 1", "likes": 5, "comments": [], "createdAt": "2024-04-30T08:00:00Z" },
-        { "id": 2, "userId": 2, "message": "Post 2", "likes": 10, "comments": [], "createdAt": "2024-04-29T10:30:00Z" },
-        { "id": 3, "userId": 1, "message": "Post 3", "likes": 3, "comments": [], "createdAt": "2024-04-28T12:45:00Z" },
-        { "id": 4, "userId": 2, "message": "Post 4", "likes": 8, "comments": [], "createdAt": "2024-04-27T15:20:00Z" },
-        { "id": 5, "userId": 1, "message": "Post 5", "likes": 12, "comments": [], "createdAt": "2024-04-26T18:10:00Z" },
-        { "id": 6, "userId": 2, "message": "Post 6", "likes": 7, "comments": [], "createdAt": "2024-04-25T20:55:00Z" },
-        { "id": 7, "userId": 1, "message": "Post 7", "likes": 4, "comments": [], "createdAt": "2024-04-24T23:30:00Z" }
+        { "id": 1,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 5, "comments": [], "createdAt": "2024-04-30T08:00:00Z" },
+        { "id": 2,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 2, "imageUrl": "https://picsum.photos/400/300", "likes": 10, "comments": [], "createdAt": "2024-04-29T10:30:00Z" },
+        { "id": 3,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 3, "comments": [], "createdAt": "2024-04-28T12:45:00Z" },
+        { "id": 4,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 2, "imageUrl": "https://picsum.photos/400/300", "likes": 8, "comments": [], "createdAt": "2024-04-27T15:20:00Z" },
+        { "id": 5,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 12, "comments": [], "createdAt": "2024-04-26T18:10:00Z" },
+        { "id": 6,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 2, "imageUrl": "https://picsum.photos/400/300", "likes": 7, "comments": [], "createdAt": "2024-04-25T20:55:00Z" },
+        { "id": 7,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 4, "comments": [], "createdAt": "2024-04-24T23:30:00Z" }
     ],
     "create-user": [
         { 
