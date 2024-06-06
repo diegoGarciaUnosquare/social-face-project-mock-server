@@ -47,13 +47,5 @@
             "token": "",
             "role": 0
         }
-    ],
-    "ad": [
-        {
-            "id": 1,
-            "title": "Amazing Opportunity!",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-            "imgUrl": "https://picsum.photos/400/300"
-        }
     ]
 }
