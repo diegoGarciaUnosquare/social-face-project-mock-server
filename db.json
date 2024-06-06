@@ -1,12 +1,12 @@
 {
     "social-post": [
-        { "id": 1, "userId": 1, "message": "Post 1", "likes": 5, "comments": [], "date": "2024-04-30T08:00:00Z" },
-        { "id": 2, "userId": 2, "message": "Post 2", "likes": 10, "comments": [], "date": "2024-04-29T10:30:00Z" },
-        { "id": 3, "userId": 1, "message": "Post 3", "likes": 3, "comments": [], "date": "2024-04-28T12:45:00Z" },
-        { "id": 4, "userId": 2, "message": "Post 4", "likes": 8, "comments": [], "date": "2024-04-27T15:20:00Z" },
-        { "id": 5, "userId": 1, "message": "Post 5", "likes": 12, "comments": [], "date": "2024-04-26T18:10:00Z" },
-        { "id": 6, "userId": 2, "message": "Post 6", "likes": 7, "comments": [], "date": "2024-04-25T20:55:00Z" },
-        { "id": 7, "userId": 1, "message": "Post 7", "likes": 4, "comments": [], "date": "2024-04-24T23:30:00Z" }
+        { "id": 1, "userId": 1, "message": "Post 1", "likes": 5, "comments": [], "createdAt": "2024-04-30T08:00:00Z" },
+        { "id": 2, "userId": 2, "message": "Post 2", "likes": 10, "comments": [], "createdAt": "2024-04-29T10:30:00Z" },
+        { "id": 3, "userId": 1, "message": "Post 3", "likes": 3, "comments": [], "createdAt": "2024-04-28T12:45:00Z" },
+        { "id": 4, "userId": 2, "message": "Post 4", "likes": 8, "comments": [], "createdAt": "2024-04-27T15:20:00Z" },
+        { "id": 5, "userId": 1, "message": "Post 5", "likes": 12, "comments": [], "createdAt": "2024-04-26T18:10:00Z" },
+        { "id": 6, "userId": 2, "message": "Post 6", "likes": 7, "comments": [], "createdAt": "2024-04-25T20:55:00Z" },
+        { "id": 7, "userId": 1, "message": "Post 7", "likes": 4, "comments": [], "createdAt": "2024-04-24T23:30:00Z" }
     ],
     "create-user": [
         { 
@@ -46,6 +46,14 @@
             "password": "newpassword", 
             "token": "",
             "role": 0
+        }
+    ],
+    "ad": [
+        {
+            "id": 1,
+            "title": "Amazing Opportunity!",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "imgUrl": "https://picsum.photos/400/300"
         }
     ]
 }
