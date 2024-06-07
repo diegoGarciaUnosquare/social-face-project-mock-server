@@ -1,12 +1,44 @@
 {
     "social-post": [
-        { "id": 1,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 5, "comments": [], "createdAt": "2024-04-30T08:00:00Z" },
+        { "id": 1,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 5, "comments": [
+            {
+                "id": 1,
+                "content": "lorem impsum lorem dolorem post etelir etereal lux",
+                "userId": 2,
+                "postId": 1,
+                "createdAt": "2024-04-30T08:00:00Z"
+            }
+        ], "createdAt": "2024-04-30T08:00:00Z" },
         { "id": 2,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 2, "imageUrl": "https://picsum.photos/400/300", "likes": 10, "comments": [], "createdAt": "2024-04-29T10:30:00Z" },
-        { "id": 3,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 3, "comments": [], "createdAt": "2024-04-28T12:45:00Z" },
+        { "id": 3,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 3, "comments": [
+            {
+                "id": 1,
+                "content": "lorem impsum lorem dolorem post etelir etereal lux",
+                "userId": 2,
+                "postId": 3,
+                "createdAt": "2024-04-30T08:00:00Z"
+            }
+        ], "createdAt": "2024-04-28T12:45:00Z" },
         { "id": 4,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 2, "imageUrl": "https://picsum.photos/400/300", "likes": 8, "comments": [], "createdAt": "2024-04-27T15:20:00Z" },
-        { "id": 5,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 12, "comments": [], "createdAt": "2024-04-26T18:10:00Z" },
+        { "id": 5,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 12, "comments": [
+            {
+                "id": 1,
+                "content": "lorem impsum lorem dolorem post etelir etereal lux",
+                "userId": 2,
+                "postId": 5,
+                "createdAt": "2024-04-30T08:00:00Z"
+            }
+        ], "createdAt": "2024-04-26T18:10:00Z" },
         { "id": 6,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 2, "imageUrl": "https://picsum.photos/400/300", "likes": 7, "comments": [], "createdAt": "2024-04-25T20:55:00Z" },
-        { "id": 7,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 4, "comments": [], "createdAt": "2024-04-24T23:30:00Z" }
+        { "id": 7,"content": "lorem impsum lorem dolorem post etelir etereal lux", "userId": 1, "imageUrl": "", "likes": 4, "comments": [
+            {
+                "id": 1,
+                "content": "lorem impsum lorem dolorem post etelir etereal lux",
+                "userId": 2,
+                "postId": 5,
+                "createdAt": "2024-04-30T08:00:00Z"
+            }
+        ], "createdAt": "2024-04-24T23:30:00Z" }
     ],
     "create-user": [
         { 
